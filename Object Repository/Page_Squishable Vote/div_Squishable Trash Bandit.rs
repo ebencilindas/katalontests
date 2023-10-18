@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Squishable Trash Bandit</name>
+   <tag></tag>
+   <elementGuidId>d8a19db5-28ad-40ce-9457-c2a7f2d8c2bd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//div[@id='os_ctgy_item_module']/a/div[2]/div)[7]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>7149c642-0fde-45c5-b7b9-a8312cf48757</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Squishable Trash Bandit</value>
+      <webElementGuid>aacd49fb-af34-46c7-9fd4-cbec50d2ec77</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;js-OSVC&quot;)/main[@class=&quot;o-wrapper&quot;]/section[@class=&quot;o-layout o-layout--main-content&quot;]/div[@class=&quot;o-layout__item&quot;]/section[@class=&quot;o-layout&quot;]/div[@class=&quot;o-layout__item u-width-12&quot;]/section[@class=&quot;o-layout&quot;]/section[@class=&quot;o-layout&quot;]/div[@class=&quot;o-layout__item u-width-12&quot;]/section[@class=&quot;o-layout u-grids-2 u-grids-3--m u-grids-4--l x-product-list&quot;]/div[@id=&quot;os_ctgy_item_module&quot;]/a[@class=&quot;u-block x-product-list__link&quot;]/div[@class=&quot;description&quot;]/div[1]</value>
+      <webElementGuid>c18303cd-bcf8-4e4f-bbe4-f443daa5081c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>(//div[@id='os_ctgy_item_module']/a/div[2]/div)[7]</value>
+      <webElementGuid>4e86c79f-1733-4583-a12b-b8c79bb5b94d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SCORE!'])[7]/following::div[2]</value>
+      <webElementGuid>fb0d9756-a51e-4fa4-9b4c-3b939744c8db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='by Katy B'])[1]/preceding::div[1]</value>
+      <webElementGuid>cb88a3cd-9941-4d77-a785-e6a4844903f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Squishable Trash Bandit']/parent::*</value>
+      <webElementGuid>524c5f3f-7bd7-41d9-9489-b0c7fea6a831</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/a/div[2]/div</value>
+      <webElementGuid>d8f8032a-ccc8-442a-9739-fa81fded6eed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Squishable Trash Bandit' or . = 'Squishable Trash Bandit')]</value>
+      <webElementGuid>6acf6c18-e140-480a-82da-eb65fd2b171e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Vote on New Designs</name>
+   <tag></tag>
+   <elementGuidId>f2fa2e4d-e40b-4f11-a4e4-cf5ffe163e3c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[@id='js-SFNT']/header/section[3]/div/nav/ul/li[2]/ul/li/ul/li/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>0f511da9-4f93-40bb-9c6f-8de51fc4873b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>c-navigation__link primary-nav-sub-link</value>
+      <webElementGuid>e3544d49-692e-4f2d-9ee4-4c0833f751fe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://www.squishable.com/category/voting_category.html</value>
+      <webElementGuid>18f71cfb-9907-4667-8a53-db0d727131e3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Vote on New Designs</value>
+      <webElementGuid>ba6dfc23-d68e-4dbe-affd-5b1f8ce3fe0f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;js-SFNT&quot;)/header[@class=&quot;o-site-wrapper&quot;]/section[@class=&quot;o-layout u-grids-1 o-site-header__masthead o-wrapper&quot;]/div[@class=&quot;o-layout__hide o-layout__show--l&quot;]/nav[@class=&quot;c-navigation u-text-uppercase x-drop-down-navigation&quot;]/ul[@class=&quot;c-navigation__row x-drop-down-navigation__row&quot;]/li[@class=&quot;nav-item c-navigation__list has-drop-down&quot;]/ul[@class=&quot;c-navigation__row primary-nav-drop-down-container&quot;]/li[@class=&quot;c-navigation__list has-drop-down&quot;]/ul[1]/li[1]/a[@class=&quot;c-navigation__link primary-nav-sub-link&quot;]</value>
+      <webElementGuid>7f6786ec-8948-4d4a-9f68-64effacb8f18</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='js-SFNT']/header/section[3]/div/nav/ul/li[2]/ul/li/ul/li/a</value>
+      <webElementGuid>9b04aa42-fed7-4bcd-aeb3-b65a89d47ca3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Vote on New Designs')]</value>
+      <webElementGuid>9e46ac97-e691-42ad-be80-be437e72db5d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Vote'])[1]/following::a[1]</value>
+      <webElementGuid>d20b51f1-f5cc-417f-bf42-ed822f63082a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PARTICIPATE'])[1]/following::a[1]</value>
+      <webElementGuid>ba47ddba-bd25-47cd-97bb-cbd0f1896fc1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Submit'])[1]/preceding::a[1]</value>
+      <webElementGuid>39ee2e0b-ce21-48d7-aca6-d36c6dec5dc3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Submit a New Design'])[1]/preceding::a[1]</value>
+      <webElementGuid>3a40e6c3-2b5e-49c1-b3d6-20f6c1b5f3eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Vote on New Designs']/parent::*</value>
+      <webElementGuid>657f2d5d-3220-4106-9d08-f9a39f17537c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://www.squishable.com/category/voting_category.html')])[3]</value>
+      <webElementGuid>4200c60a-0eb0-447c-aa86-76c0ae79d9e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/ul/li/ul/li/a</value>
+      <webElementGuid>03ac7d64-1308-4d41-b83e-1f096729b77d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://www.squishable.com/category/voting_category.html' and (text() = 'Vote on New Designs' or . = 'Vote on New Designs')]</value>
+      <webElementGuid>a5477917-7686-4775-a333-d30d5f12de17</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

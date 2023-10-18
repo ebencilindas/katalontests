@@ -1,0 +1,13 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Validate Voting Feature,Chrome 118.0.0.0,,,2023-10-18 03:20:31,2023-10-18 03:21:08,36.537s,PASSED
+,,,,,,,
+Test Cases/Voting Feature/Validate - Voting feature,Chrome 118.0.0.0,,,2023-10-18 03:20:31,2023-10-18 03:21:08,36.282s,PASSED
+Start listener action : enableSauceLabs,Chrome 118.0.0.0,,,2023-10-18 03:20:31,2023-10-18 03:20:31,0.021s,PASSED
+"openBrowser("""")",Chrome 118.0.0.0,,,2023-10-18 03:20:32,2023-10-18 03:20:34,2.336s,PASSED
+"navigateToUrl(""https://www.squishable.com//index.html"")",Chrome 118.0.0.0,,,2023-10-18 03:20:34,2023-10-18 03:20:54,19.753s,PASSED
+"click(findTestObject(""Object Repository/Page_Squishable Hug Something/div_PARTICIPATE_u-icon-chevron-down""))",Chrome 118.0.0.0,,,2023-10-18 03:20:54,2023-10-18 03:21:00,6.289s,PASSED
+"click(findTestObject(""Object Repository/Page_Squishable Vote/img_SCORE_x-product-list__image""))",Chrome 118.0.0.0,,,2023-10-18 03:21:00,2023-10-18 03:21:04,3.815s,PASSED
+"setText(findTestObject(""Object Repository/Page_squishable.com Squishable Gingerbone Man/input_SCORE_wait_email""), ""ebencilin.chandradhas@gmail.com"")",Chrome 118.0.0.0,,,2023-10-18 03:21:04,2023-10-18 03:21:05,1.164s,PASSED
+"click(findTestObject(""Object Repository/Page_squishable.com Squishable Gingerbone Man/input_SCORE_waiting""))",Chrome 118.0.0.0,,,2023-10-18 03:21:05,2023-10-18 03:21:07,1.880s,PASSED
+closeBrowser(),Chrome 118.0.0.0,,,2023-10-18 03:21:07,2023-10-18 03:21:08,0.710s,PASSED
+Start listener action : autoUpdateJobStatus,Chrome 118.0.0.0,,,2023-10-18 03:21:08,2023-10-18 03:21:08,0.004s,PASSED

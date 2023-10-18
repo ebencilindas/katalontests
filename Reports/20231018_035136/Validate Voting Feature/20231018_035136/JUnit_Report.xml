@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Validate Voting Feature" time="39.028" tests="1" failures="0" errors="0">
+   <testsuite name="Validate Voting Feature" tests="1" failures="0" errors="0" time="39.028" skipped="0" timestamp="2023-10-18 03:51:38" hostname="ebenc - 192.168.11.60" id="Test Suites/Validate Voting Feature">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform" value=""/>
+         <property name="logFolder" value="C:\\Users\\ebenc\\katalontests\\Reports\\20231018_035136\\Validate Voting Feature\\20231018_035136"/>
+         <property name="logFiles" value="C:\\Users\\ebenc\\katalontests\\Reports\\20231018_035136\\Validate Voting Feature\\20231018_035136\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="ebenc - 192.168.11.60"/>
+         <property name="os" value="Windows 11 64bit"/>
+         <property name="katalonVersion" value="8.6.8.208"/>
+         <property name="browser" value="Chrome 118.0.0.0"/>
+         <property name="hostAddress" value="192.168.11.60"/>
+         <property name="sessionId" value="47ce0e71f92495a84fd87083f810ebb3"/>
+         <property name="seleniumVersion" value="3.141.59"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 11"/>
+      </properties>
+      <testcase name="Test Cases/Voting Feature/Validate - Voting feature" time="38.791" classname="Test Cases/Voting Feature/Validate - Voting feature" status="PASSED">
+         <system-out><![CDATA[2023-10-18 03:51:39 - [TEST_CASE][PASSED] - Test Cases/Voting Feature/Validate - Voting feature: Test Cases/Voting Feature/Validate - Voting feature
+
+2023-10-18 03:51:39 - [TEST_STEP][PASSED] - Start listener action : enableSauceLabs: [SAUCELABS] Saucelabs Plugin will not attempt to auto update job status and information !
+
+2023-10-18 03:51:39 - [MESSAGE][INFO] - [SAUCELABS] Current run configuration: Chrome
+
+2023-10-18 03:51:39 - [MESSAGE][INFO] - [SAUCELABS] Saucelabs Plugin will not attempt to auto update job status and information !
+
+2023-10-18 03:51:39 - [TEST_STEP][PASSED] - openBrowser(""): Browser is opened with url: ''
+
+2023-10-18 03:51:39 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+2023-10-18 03:51:39 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+2023-10-18 03:51:41 - [MESSAGE][PASSED] - Browser is opened with url: ''
+
+2023-10-18 03:51:41 - [TEST_STEP][PASSED] - navigateToUrl("https://www.squishable.com//index.html"): Navigate to 'https://www.squishable.com//index.html' successfully
+
+2023-10-18 03:52:03 - [MESSAGE][PASSED] - Navigate to 'https://www.squishable.com//index.html' successfully
+
+2023-10-18 03:52:03 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Squishable Hug Something/div_PARTICIPATE_u-icon-chevron-down")): Object: 'Object Repository/Page_Squishable Hug Something/div_PARTICIPATE_u-icon-chevron-down' is clicked on
+
+2023-10-18 03:52:08 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Squishable Hug Something/div_PARTICIPATE_u-icon-chevron-down' is clicked on
+
+2023-10-18 03:52:08 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_Squishable Vote/img_SCORE_x-product-list__image")): Object: 'Object Repository/Page_Squishable Vote/img_SCORE_x-product-list__image' is clicked on
+
+2023-10-18 03:52:13 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_Squishable Vote/img_SCORE_x-product-list__image' is clicked on
+
+2023-10-18 03:52:13 - [TEST_STEP][PASSED] - setText(findTestObject("Object Repository/Page_squishable.com Squishable Gingerbone Man/input_SCORE_wait_email"), "ebencilin.chandradhas@gmail.com"): Text 'ebencilin.chandradhas@gmail.com' is set on object 'Object Repository/Page_squishable.com Squishable Gingerbone Man/input_SCORE_wait_email'
+
+2023-10-18 03:52:15 - [MESSAGE][PASSED] - Text 'ebencilin.chandradhas@gmail.com' is set on object 'Object Repository/Page_squishable.com Squishable Gingerbone Man/input_SCORE_wait_email'
+
+2023-10-18 03:52:15 - [TEST_STEP][PASSED] - click(findTestObject("Object Repository/Page_squishable.com Squishable Gingerbone Man/input_SCORE_waiting")): Object: 'Object Repository/Page_squishable.com Squishable Gingerbone Man/input_SCORE_waiting' is clicked on
+
+2023-10-18 03:52:17 - [MESSAGE][PASSED] - Object: 'Object Repository/Page_squishable.com Squishable Gingerbone Man/input_SCORE_waiting' is clicked on
+
+2023-10-18 03:52:17 - [TEST_STEP][PASSED] - closeBrowser(): Browser is closed
+
+2023-10-18 03:52:17 - [MESSAGE][PASSED] - Browser is closed
+
+2023-10-18 03:52:17 - [TEST_STEP][PASSED] - Start listener action : autoUpdateJobStatus: [SAUCELABS] Current run configuration: Chrome
+
+2023-10-18 03:52:17 - [MESSAGE][INFO] - [SAUCELABS] Current run configuration: Chrome]]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[2023-10-18 03:51:38 - [TEST_SUITE][PASSED] - Validate Voting Feature: Test Cases/Voting Feature/Validate - Voting feature]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

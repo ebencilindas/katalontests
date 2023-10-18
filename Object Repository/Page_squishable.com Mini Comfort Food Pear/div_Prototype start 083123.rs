@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Prototype start 083123</name>
+   <tag></tag>
+   <elementGuidId>43d95135-502c-4b7e-ae8f-c8f0b9fb8962</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[@id='js-PTYP']/main/section/div/section/div[2]/div[2]/div[2]/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>95f38faf-1c8d-4d47-9ebf-64f74d94c4bc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Prototype start: 08/31/23</value>
+      <webElementGuid>0daa31ff-1c78-487b-8aa4-0c67087508a8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;js-PTYP&quot;)/main[@class=&quot;o-wrapper&quot;]/section[@class=&quot;o-layout o-layout--main-content&quot;]/div[@class=&quot;o-layout__item&quot;]/section[@class=&quot;o-layout&quot;]/div[@class=&quot;o-layout__item u-width-12--s u-width-6--m u-width-6--l apply-padding--m&quot;]/div[2]/div[@class=&quot;o-layout u-width-12&quot;]/div[@class=&quot;o-layout__item u-width-8 u-width-9--m&quot;]/div[1]</value>
+      <webElementGuid>7eecfa16-8574-47ae-a475-cedede091504</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='js-PTYP']/main/section/div/section/div[2]/div[2]/div[2]/div[2]/div</value>
+      <webElementGuid>7e8c00e1-392e-48c7-a4f7-b6a5b5332069</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='...Waiting on prototype'])[1]/following::div[4]</value>
+      <webElementGuid>c4b14d8f-234b-45cd-b520-3f2bd547d2a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='more about this design'])[1]/following::div[9]</value>
+      <webElementGuid>216c681b-c361-452c-bbba-c6e163cd6e21</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Last Updated'])[1]/preceding::div[3]</value>
+      <webElementGuid>b3f813fd-edff-4c1a-90e6-6e79c212b499</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='08/31/23']/parent::*</value>
+      <webElementGuid>03142245-7931-44df-a158-62955ec2afe8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div[2]/div[2]/div</value>
+      <webElementGuid>b3440b40-518f-4190-a4b3-157baef9a4ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Prototype start: 08/31/23' or . = 'Prototype start: 08/31/23')]</value>
+      <webElementGuid>813e5776-d3b4-4acb-a999-9b17107d53f9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

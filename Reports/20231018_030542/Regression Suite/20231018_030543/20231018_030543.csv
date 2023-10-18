@@ -1,0 +1,9 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Regression Suite,Chrome 118.0.0.0,,,2023-10-18 03:05:46,2023-10-18 03:06:46,1m - 0.027s,FAILED
+,,,,,,,
+Test Cases/Voting Feature/Vote on a design,Chrome 118.0.0.0,,,2023-10-18 03:06:42,2023-10-18 03:06:46,4.131s,FAILED
+Start listener action : enableSauceLabs,Chrome 118.0.0.0,,,2023-10-18 03:06:42,2023-10-18 03:06:42,0.001s,PASSED
+"openBrowser("""")",Chrome 118.0.0.0,,,2023-10-18 03:06:42,2023-10-18 03:06:43,1.732s,PASSED
+"navigateToUrl(""https://www.squishable.com//index.html"")",Chrome 118.0.0.0,,,2023-10-18 03:06:43,2023-10-18 03:06:45,2.092s,PASSED
+"click(findTestObject(""Object Repository/Page_Squishable Hug Something/a_Vote on New Designs""))",Chrome 118.0.0.0,,,2023-10-18 03:06:45,2023-10-18 03:06:46,0.292s,FAILED
+Start listener action : autoUpdateJobStatus,Chrome 118.0.0.0,,,2023-10-18 03:06:46,2023-10-18 03:06:46,0.001s,PASSED

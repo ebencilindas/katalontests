@@ -1,0 +1,9 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+Validate user voting feature,Chrome 118.0.0.0,,,2023-10-18 03:08:10,2023-10-18 03:08:50,39.865s,FAILED
+,,,,,,,
+Test Cases/Voting Feature/Vote on a design,Chrome 118.0.0.0,,,2023-10-18 03:08:47,2023-10-18 03:08:50,3.269s,FAILED
+Start listener action : enableSauceLabs,Chrome 118.0.0.0,,,2023-10-18 03:08:47,2023-10-18 03:08:47,0.001s,PASSED
+"openBrowser("""")",Chrome 118.0.0.0,,,2023-10-18 03:08:47,2023-10-18 03:08:49,1.800s,PASSED
+"navigateToUrl(""https://www.squishable.com//index.html"")",Chrome 118.0.0.0,,,2023-10-18 03:08:49,2023-10-18 03:08:50,1.152s,PASSED
+"click(findTestObject(""Object Repository/Page_Squishable Hug Something/a_Vote on New Designs""))",Chrome 118.0.0.0,,,2023-10-18 03:08:50,2023-10-18 03:08:50,0.296s,FAILED
+Start listener action : autoUpdateJobStatus,Chrome 118.0.0.0,,,2023-10-18 03:08:50,2023-10-18 03:08:50,0.001s,PASSED

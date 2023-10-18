@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_SCORE_x-product-list__image (1)</name>
+   <tag></tag>
+   <elementGuidId>0a73350c-2cde-4389-8b1d-d5ff1db24730</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//div[@id='os_ctgy_item_module']/a/img)[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>0dc43ee7-5eaf-4f7f-a1c8-b818a3e144fe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>x-product-list__image</value>
+      <webElementGuid>403ac71e-5525-4fac-b9c8-d27cf364d785</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>graphics/00000001/opensquish_gingerbone_man_453010_thumbnail.jpg</value>
+      <webElementGuid>bf6050f4-8b21-4bf0-9798-b138b0c2462f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Squishable Gingerbone Man thumbnail</value>
+      <webElementGuid>19a96fab-e1d4-412d-b893-dab087cf9f99</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;js-OSVC&quot;)/main[@class=&quot;o-wrapper&quot;]/section[@class=&quot;o-layout o-layout--main-content&quot;]/div[@class=&quot;o-layout__item&quot;]/section[@class=&quot;o-layout&quot;]/div[@class=&quot;o-layout__item u-width-12&quot;]/section[@class=&quot;o-layout&quot;]/section[@class=&quot;o-layout&quot;]/div[@class=&quot;o-layout__item u-width-12&quot;]/section[@class=&quot;o-layout u-grids-2 u-grids-3--m u-grids-4--l x-product-list&quot;]/div[@id=&quot;os_ctgy_item_module&quot;]/a[@class=&quot;u-block x-product-list__link&quot;]/img[@class=&quot;x-product-list__image&quot;]</value>
+      <webElementGuid>6b93a636-e52d-4beb-9b63-170d5ce3b076</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>(//div[@id='os_ctgy_item_module']/a/img)[2]</value>
+      <webElementGuid>ff82b5eb-06a8-4f18-9947-b08228e13dcf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Squishable Gingerbone Man thumbnail']</value>
+      <webElementGuid>f2d9621f-937d-412d-9236-e9f90c0ae3ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section/div[2]/a/img</value>
+      <webElementGuid>9daf032e-47d0-4c95-a74c-0c77c5596316</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'graphics/00000001/opensquish_gingerbone_man_453010_thumbnail.jpg' and @alt = 'Squishable Gingerbone Man thumbnail']</value>
+      <webElementGuid>84f60a75-ac19-4aab-bcb3-16658eae085f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_PARTICIPATE</name>
+   <tag></tag>
+   <elementGuidId>ec207d25-af7e-4b0b-8b89-5368b6cd765f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[@id='js-SFNT']/header/section[3]/div/nav/ul/li[2]/a/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>86287b68-8131-4b44-b4ad-03e059d23b89</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>PARTICIPATE</value>
+      <webElementGuid>49c40de6-06fa-4b03-a46f-aa2e7b4cc839</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;js-SFNT&quot;)/header[@class=&quot;o-site-wrapper&quot;]/section[@class=&quot;o-layout u-grids-1 o-site-header__masthead o-wrapper&quot;]/div[@class=&quot;o-layout__hide o-layout__show--l&quot;]/nav[@class=&quot;c-navigation u-text-uppercase x-drop-down-navigation&quot;]/ul[@class=&quot;c-navigation__row x-drop-down-navigation__row&quot;]/li[@class=&quot;nav-item c-navigation__list has-drop-down&quot;]/a[@class=&quot;c-navigation__link&quot;]/div[1]/span[1]</value>
+      <webElementGuid>68cb4a86-2918-4172-8e6d-9b6ea2635cc6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='js-SFNT']/header/section[3]/div/nav/ul/li[2]/a/div/span</value>
+      <webElementGuid>af894006-861a-443e-a563-726a58e0cded</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Shop by Theme'])[1]/following::span[1]</value>
+      <webElementGuid>f978644f-8186-470d-bf07-c53398d98e03</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Our Stores'])[1]/following::span[1]</value>
+      <webElementGuid>578d2c96-8363-4b9c-8854-9be186484cba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Vote'])[1]/preceding::span[1]</value>
+      <webElementGuid>a5fb6fd6-e722-45d9-8bf8-16e7134de055</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Vote on New Designs'])[1]/preceding::span[1]</value>
+      <webElementGuid>22581a91-2431-495f-892c-bd3a18dcdf0b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='PARTICIPATE']/parent::*</value>
+      <webElementGuid>2528ae12-ff9c-4558-b373-d8364750034b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/a/div/span</value>
+      <webElementGuid>b2df9231-4b3c-4c0f-aec9-caa63462b1dc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'PARTICIPATE' or . = 'PARTICIPATE')]</value>
+      <webElementGuid>bd5f0c75-f86c-492b-85eb-fd89ebf1e171</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

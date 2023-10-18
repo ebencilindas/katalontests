@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_In-Process Designs</name>
+   <tag></tag>
+   <elementGuidId>84c4d7a4-b77e-4014-b37a-9ddc2724d65f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[@id='js-IPDE']/header/section[3]/div/nav/ul/li[2]/ul/li[3]/ul/li/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>81f3f696-aa27-48eb-a8dc-c1ecb9e51dc0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>c-navigation__link primary-nav-sub-link</value>
+      <webElementGuid>66a09c7e-af0b-473d-a837-feef0bf3e4bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://www.squishable.com/category/prototypes.html</value>
+      <webElementGuid>baca2b22-b13a-439b-a55e-bef0a2ddd50c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>In-Process Designs</value>
+      <webElementGuid>38a36764-9fec-4d2b-89c1-003baa96782a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;js-IPDE&quot;)/header[@class=&quot;o-site-wrapper&quot;]/section[@class=&quot;o-layout u-grids-1 o-site-header__masthead o-wrapper&quot;]/div[@class=&quot;o-layout__hide o-layout__show--l&quot;]/nav[@class=&quot;c-navigation u-text-uppercase x-drop-down-navigation&quot;]/ul[@class=&quot;c-navigation__row x-drop-down-navigation__row&quot;]/li[@class=&quot;nav-item c-navigation__list has-drop-down&quot;]/ul[@class=&quot;c-navigation__row primary-nav-drop-down-container&quot;]/li[@class=&quot;c-navigation__list has-drop-down&quot;]/ul[1]/li[1]/a[@class=&quot;c-navigation__link primary-nav-sub-link&quot;]</value>
+      <webElementGuid>ea5d1af6-d839-48ff-a47b-def1159ff6b3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='js-IPDE']/header/section[3]/div/nav/ul/li[2]/ul/li[3]/ul/li/a</value>
+      <webElementGuid>523c43b4-b3d2-497d-8cec-01d28561e6e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'In-Process Designs')]</value>
+      <webElementGuid>34d03ab7-5206-477d-b16e-f89d1e49ba60</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fan Stuff'])[1]/following::a[1]</value>
+      <webElementGuid>f0d3afcd-b202-48bf-b8b4-24c5abc12ebc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Squish Designers'])[1]/following::a[1]</value>
+      <webElementGuid>5abb024e-f8a1-4c5a-a9a0-4d945cfed6d0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Retired Squishables'])[1]/preceding::a[1]</value>
+      <webElementGuid>60ec800e-180e-473f-a8c8-7933fa95099b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fan Art'])[1]/preceding::a[2]</value>
+      <webElementGuid>fd661859-cefa-4647-99f0-b00091ed3c59</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='In-Process Designs']/parent::*</value>
+      <webElementGuid>95ef1c48-d02b-49e3-bff8-6ada83b07de5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://www.squishable.com/category/prototypes.html')])[2]</value>
+      <webElementGuid>cfd086cc-4e44-46be-886a-84178edfd225</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/ul/li[3]/ul/li/a</value>
+      <webElementGuid>1dd69e61-22f2-4dbd-a53a-0c9fb126646a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://www.squishable.com/category/prototypes.html' and (text() = 'In-Process Designs' or . = 'In-Process Designs')]</value>
+      <webElementGuid>22da32ca-2ff0-4fb1-a726-3f3d07a84b45</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

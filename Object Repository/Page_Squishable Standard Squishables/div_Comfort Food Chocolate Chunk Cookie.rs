@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Comfort Food Chocolate Chunk Cookie</name>
+   <tag></tag>
+   <elementGuidId>3b3fdb41-11b7-4d63-8de5-28a5ae437ce3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[@id='js-CTGY']/main/section/div[2]/section[3]/div[2]/a/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>ee5a28ff-f73b-4293-b25e-458c5330d381</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>product-name</value>
+      <webElementGuid>e15e5366-e5e4-41a9-a4ab-f981f4177d5d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Comfort Food Chocolate Chunk Cookie</value>
+      <webElementGuid>8e4b0b6c-c5d2-4b85-828a-e6aae48fce1d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;js-CTGY&quot;)/main[@class=&quot;o-wrapper&quot;]/section[@class=&quot;o-layout o-layout--main-content&quot;]/div[@class=&quot;o-layout__item u-width-12--s u-width-12--m u-width-10--l&quot;]/section[@class=&quot;o-layout u-grids-2--s u-grids-3--m u-grids-4--l x-product-list&quot;]/div[@class=&quot;o-layout__item u-width-6 u-width-3--m u-text-center x-product-list__item item_mod&quot;]/a[@class=&quot;u-block x-product-list__link&quot;]/div[2]/div[@class=&quot;product-name&quot;]</value>
+      <webElementGuid>e9f90df2-c055-4322-b1ce-16651911e890</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='js-CTGY']/main/section/div[2]/section[3]/div[2]/a/div[2]/div</value>
+      <webElementGuid>b8afc273-b5dc-488c-85a4-4538cf110fd6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='NEW!'])[2]/following::div[2]</value>
+      <webElementGuid>0d2f018e-e3b3-4a49-aa94-74eafd010b5e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$48.00'])[1]/following::div[4]</value>
+      <webElementGuid>79f01bb4-5759-443e-84e5-9d4a1ec82df8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='$39.00'])[1]/preceding::div[1]</value>
+      <webElementGuid>7007610a-40ce-4337-a078-49c174005ad7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PRE-ORDER!'])[1]/preceding::div[1]</value>
+      <webElementGuid>16791cf4-4f01-4156-8a04-5468de779b3f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Comfort Food Chocolate Chunk Cookie']/parent::*</value>
+      <webElementGuid>44125528-f40f-4427-8e8f-ceaf0520f15e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/a/div[2]/div</value>
+      <webElementGuid>83cccf07-439f-4b81-b797-04a2f62ff056</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Comfort Food Chocolate Chunk Cookie' or . = 'Comfort Food Chocolate Chunk Cookie')]</value>
+      <webElementGuid>86710556-3edd-4e4d-98e7-d8fa701b613f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

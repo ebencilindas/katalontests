@@ -7,11 +7,11 @@
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>div.o-layout__item.u-width-12 > img</value>
+         <value>img[alt=&quot;In-process&quot;]</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//body[@id='js-IPDE']/main/section/div/section[2]/div/img</value>
+         <value>//div[@id='open_squish_top_nav']/div/div[4]/a/img</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,46 +22,78 @@
       <name>tag</name>
       <type>Main</type>
       <value>img</value>
-      <webElementGuid>68fb7489-16bf-4392-987f-bdb7337e56ce</webElementGuid>
+      <webElementGuid>4238ad52-acc7-46b2-8f90-75f70f9d16d6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-hook</name>
+      <type>Main</type>
+      <value>btn-hover</value>
+      <webElementGuid>c8ad5859-ba2b-4b82-b341-f7fd34415a38</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>src</name>
       <type>Main</type>
-      <value>graphics/00000001/pos_topbanner_INPROCESS.jpg</value>
-      <webElementGuid>2d4a5b38-dc56-4b29-888c-77f53d0a8c80</webElementGuid>
+      <value>graphics/00000001/pos_nav_inprocess_button.png</value>
+      <webElementGuid>979dfdcb-001a-4d45-bdbb-d33ebd508558</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>In-process</value>
+      <webElementGuid>7441fa8b-8879-46ce-baf4-efa28270a71c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>In-process</value>
+      <webElementGuid>22669322-4399-4f3e-8d7c-bd2f36af6620</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;js-IPDE&quot;)/main[@class=&quot;o-wrapper&quot;]/section[@class=&quot;o-layout o-layout--main-content&quot;]/div[@class=&quot;o-layout__item u-width-12&quot;]/section[@class=&quot;o-layout&quot;]/div[@class=&quot;o-layout__item u-width-12&quot;]/img[1]</value>
-      <webElementGuid>bf23d153-9fb9-468e-a4bc-422570127dd9</webElementGuid>
+      <value>id(&quot;open_squish_top_nav&quot;)/div[@class=&quot;o-layout__item u-width-12&quot;]/div[4]/a[@class=&quot;sfnt-ctgy-btn&quot;]/img[1]</value>
+      <webElementGuid>f28d7b37-c892-439b-a22c-5d84dd43e058</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//body[@id='js-IPDE']/main/section/div/section[2]/div/img</value>
-      <webElementGuid>61f9b24a-aaf1-45ea-8d8d-3803c3c489b3</webElementGuid>
+      <value>//div[@id='open_squish_top_nav']/div/div[4]/a/img</value>
+      <webElementGuid>a119f405-f8f1-481f-a2f8-805017fdaa07</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='In-process']</value>
+      <webElementGuid>6c39be7a-9103-47cc-8008-a71d4ab64119</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div/img</value>
-      <webElementGuid>662d604e-5592-46cb-94d3-f8de834a377d</webElementGuid>
+      <value>//div[4]/a/img</value>
+      <webElementGuid>4241aacf-fd57-4f54-af74-a0201662d884</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//img[@src = 'graphics/00000001/pos_topbanner_INPROCESS.jpg']</value>
-      <webElementGuid>1bdd9707-e5e2-4a1f-ad99-a8a000af163c</webElementGuid>
+      <value>//img[@src = 'graphics/00000001/pos_nav_inprocess_button.png' and @alt = 'In-process' and @title = 'In-process']</value>
+      <webElementGuid>1ce6baa2-b3d7-485c-b028-552f66681a13</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

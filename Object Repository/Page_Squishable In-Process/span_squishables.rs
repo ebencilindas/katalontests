@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_squishables</name>
+   <tag></tag>
+   <elementGuidId>fda552bf-0cbc-4d4a-9a44-c5372114d06f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>li.nav-item.c-navigation__list.has-drop-down > a.c-navigation__link > span.primary-nav-links</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[@id='js-IPDE']/header/section[3]/div/nav/ul/li[6]/a/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>7b439562-d64c-4c09-a2e5-a725f2182bd9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>primary-nav-links</value>
+      <webElementGuid>f7f35e12-aea7-4c84-aea2-4102c936a7dc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>squishables</value>
+      <webElementGuid>6bdee130-a5ff-43a8-b911-df28161722ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;js-IPDE&quot;)/header[@class=&quot;o-site-wrapper&quot;]/section[@class=&quot;o-layout u-grids-1 o-site-header__masthead o-wrapper&quot;]/div[@class=&quot;o-layout__hide o-layout__show--l&quot;]/nav[@class=&quot;c-navigation u-text-uppercase x-drop-down-navigation&quot;]/ul[@class=&quot;c-navigation__row x-drop-down-navigation__row&quot;]/li[@class=&quot;nav-item c-navigation__list has-drop-down&quot;]/a[@class=&quot;c-navigation__link&quot;]/span[@class=&quot;primary-nav-links&quot;]</value>
+      <webElementGuid>c0e5232f-a0a6-4ab3-96c9-140f8e09b97d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='js-IPDE']/header/section[3]/div/nav/ul/li[6]/a/span</value>
+      <webElementGuid>69d798c7-2b15-4c49-931a-f8238bd2035a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='|'])[1]/following::span[1]</value>
+      <webElementGuid>699b4229-751c-4ca3-8518-a1a73b87820f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Custom Products'])[1]/following::span[2]</value>
+      <webElementGuid>38942181-9924-497b-80f5-50c683ec86d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='minis'])[2]/preceding::span[1]</value>
+      <webElementGuid>63deeef8-b0fa-465d-8aa6-c793afe3071f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='comfort food'])[1]/preceding::span[2]</value>
+      <webElementGuid>37218ccd-1c00-42d9-834c-8224d0078eb1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[6]/a/span</value>
+      <webElementGuid>9c86fff4-0e61-443b-82c6-3955dde7d04c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'squishables' or . = 'squishables')]</value>
+      <webElementGuid>a039b798-8cc4-4855-a5cc-f393896cab45</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

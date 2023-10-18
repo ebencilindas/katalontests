@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Mini Squishable Tombstone_x-product-lis_1cb8f1</name>
+   <tag></tag>
+   <elementGuidId>0498dc4e-337e-4425-be1d-ebc8424b88cd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//div[@id='prototype_item_module']/a/img)[5]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>8047897c-e9eb-4739-bfff-8496e878c453</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>x-product-list__image</value>
+      <webElementGuid>cd074d84-11e2-4bb7-bc5b-e3c35f7cb09b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>graphics/00000001/Pear130x130.jpg</value>
+      <webElementGuid>bc84caa0-bc21-40f4-a9d3-ba9a9ad302c1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Mini Comfort Food Pear thumbnail</value>
+      <webElementGuid>d06de834-d035-48c7-8cb1-7913364ef02c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;js-IPDE&quot;)/main[@class=&quot;o-wrapper&quot;]/section[@class=&quot;o-layout o-layout--main-content&quot;]/div[@class=&quot;o-layout__item u-width-12&quot;]/section[@class=&quot;o-layout&quot;]/div[@class=&quot;o-layout__item u-width-12&quot;]/section[@class=&quot;o-layout u-grids-2 u-grids-4--s u-grids-5--l x-product-list&quot;]/div[@id=&quot;prototype_item_module&quot;]/a[@class=&quot;u-block x-product-list__link&quot;]/img[@class=&quot;x-product-list__image&quot;]</value>
+      <webElementGuid>951c0c42-94dd-4bba-949a-0aa10d668409</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>(//div[@id='prototype_item_module']/a/img)[5]</value>
+      <webElementGuid>1abbf6c4-499a-44d5-bbe8-971c6655c922</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Mini Comfort Food Pear thumbnail']</value>
+      <webElementGuid>855588d1-761d-4ee9-8006-c72b315703d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//section/div[5]/a/img</value>
+      <webElementGuid>942de364-da82-4802-912b-bf5e060ef904</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'graphics/00000001/Pear130x130.jpg' and @alt = 'Mini Comfort Food Pear thumbnail']</value>
+      <webElementGuid>979e73be-ce55-4889-99fe-2cf1188833ef</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
